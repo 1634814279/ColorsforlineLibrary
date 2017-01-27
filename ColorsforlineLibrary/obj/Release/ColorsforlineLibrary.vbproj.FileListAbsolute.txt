@@ -1,0 +1,9 @@
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\bin\Release\ColorsforlineLibrary.dll
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\bin\Release\ColorsforlineLibrary.pdb
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\bin\Release\ColorsforlineLibrary.xml
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\obj\Release\ColorsforlineLibrary.Resources.resources
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\obj\Release\ColorsforlineLibrary.vbproj.GenerateResource.Cache
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\obj\Release\ColorsforlineLibrary.dll
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\obj\Release\ColorsforlineLibrary.xml
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\obj\Release\ColorsforlineLibrary.pdb
+C:\Users\zl\Documents\Visual Studio 2015\Projects\ColorsforlineLibrary\ColorsforlineLibrary\obj\Release\ColorsforlineLibrary.vbprojResolveAssemblyReference.cache
